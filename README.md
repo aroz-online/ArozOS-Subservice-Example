@@ -12,7 +12,7 @@ cd src\demo\
 build.bat
 ```
 
-AFter th build complete, you should see the following binaries
+After the build complete, you should see the following binaries
 - demo.exe
 - demo_darwin_amd64
 - demo_linux_amd64
